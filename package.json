@@ -1,5 +1,5 @@
 {
-  "name": "react-stateful-widgets",
+  "name": "web-module-project-deploying-web-apps",
   "version": "0.0.1",
   "scripts": {
     "start": "parcel src/index.html",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BloomInstituteOfTechnology/react-stateful-widgets.git"
+    "url": "git+https://github.com/BloomInstituteOfTechnology/web-module-project-deploying-web-apps.git"
   },
   "keywords": [],
   "author": "",
   "bugs": {
-    "url": "https://github.com/BloomInstituteOfTechnology/react-stateful-widgets/issues"
+    "url": "https://github.com/BloomInstituteOfTechnology/web-module-project-deploying-web-apps/issues"
   },
-  "homepage": "https://github.com/BloomInstituteOfTechnology/react-stateful-widgets#readme"
+  "homepage": "https://github.com/BloomInstituteOfTechnology/web-module-project-deploying-web-apps#readme"
 }
